@@ -13,4 +13,4 @@ Notes summarizing some of the most effective methods for KV cache optimization m
 
 ## KV Cache Performance Demo
 An application that allows users to enter a prompt and compare inference time with and without KV caching.  
-**Link:** [KV Cache Timing Demo](<https://github.com/mariam-hassan2/KV_cache/tree/main/KV%20Cache%20Inference%20Demo>)
+**Link:** [KV Cache Performance Demo](<https://github.com/mariam-hassan2/KV_cache/tree/main/KV%20Cache%20Inference%20Demo>)
