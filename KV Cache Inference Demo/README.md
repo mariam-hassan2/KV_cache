@@ -1,6 +1,8 @@
 
 ## How to Use
 
+**Try it online**:  [**Here**](<https://huggingface.co/spaces/mtarek123456/kv-cache-performance-demo>)
+
 *Screenshots for each step are shown below to make it easy to follow.*
 1. **Enter your prompt** in the **Prompt** box.  
    *Example:* `explain the KV cache in one line`
@@ -37,6 +39,7 @@ This is roughly a **92% speedup** with the KV cache enabled for this prompt.
 
 7. Use the Clear button to clear the prompt box and reset the number of tokens back to 10.
 <img width="935" height="335" alt="10" src="https://github.com/user-attachments/assets/3acad67b-d31a-4e8a-b680-ff4a81a6b346" />
+
 
 
 
