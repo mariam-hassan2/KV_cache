@@ -4,17 +4,17 @@
 *Screenshots for each step are shown below to make it easy to follow.*
 1. **Enter your prompt** in the **Prompt** box.  
    *Example:* `explain the KV cache in one line`
-<img width="954" height="372" alt="11" src="https://github.com/user-attachments/assets/c4a372ea-62be-4740-9e91-a1dba01fd679" />
+<img width="949" height="351" alt="11" src="https://github.com/user-attachments/assets/f84a1c1c-97ba-43e2-9a85-824f390c8211" />
 
 
 3. **Pick the number of tokens** to generate.  
    - More tokens = longer output = more time.  
    - For a quick test, try **10–50 tokens**.
-<img width="954" height="372" alt="12" src="https://github.com/user-attachments/assets/4a01551e-0b46-4d75-807f-c7de23edbb80" />
+<img width="949" height="351" alt="12" src="https://github.com/user-attachments/assets/b36afcd1-5be7-48fb-9a09-c3783b3b200f" />
 
 4. **Turn on KV Cache** by checking the **“KV Cache”** box.  
    - With KV cache on, responses come back **much faster**.
-<img width="954" height="372" alt="13" src="https://github.com/user-attachments/assets/6f73dfb4-8a49-4c47-80b7-c62afd064e1e" />
+<img width="949" height="351" alt="13" src="https://github.com/user-attachments/assets/44180af0-d14a-4b84-be4c-ce7026c3b9ed" />
 
 5. **See the model’s response** in the **Generation** box.
 <img width="953" height="350" alt="7" src="https://github.com/user-attachments/assets/d69d32fe-c47a-4348-991b-0c92ab3ac69b" />
@@ -37,6 +37,7 @@ This is roughly a **92% speedup** with the KV cache enabled for this prompt.
 
 7. Use the Clear button to clear the prompt box and reset the number of tokens back to 10.
 <img width="935" height="335" alt="10" src="https://github.com/user-attachments/assets/3acad67b-d31a-4e8a-b680-ff4a81a6b346" />
+
 
 
 
